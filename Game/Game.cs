@@ -18,19 +18,19 @@ namespace 贪吃蛇.Game
     }
     class Game
     {
-        public int w = 40;
-        public int h = 20;
+        public const int w = 40;
+        public const int h = 20;
         //当前选中的场景
-        public ISceneUpdate currentScene;
+        public static ISceneUpdate currentScene;
         //构造函数
         public Game()
         {
             Console.CursorVisible  = false;
-            Console.SetCursorPosition(w, h);
-            //Console.SetBufferSize(w, h);
+            Console.SetWindowSize(w, h);
+            Console.SetBufferSize(w, h);
 
             //初始化场景
-            changeScene(E_SceneType.Begin);
+            changeScene(E_SceneType.End);
 
         }
 
@@ -47,20 +47,20 @@ namespace 贪吃蛇.Game
         }
 
         //切换场景的方法
-        public void changeScene(E_SceneType type)
+        public static void changeScene(E_SceneType type)
         {
             Console.Clear();
 
             switch (type)
             {
                 case E_SceneType.Begin:
-                    currentScene = new BeginOrEndScene();
+                    currentScene = new BeginScene();
                     break;
                 case E_SceneType.Game:
                     currentScene = new GameScene();
                     break;
                 case E_SceneType.End:
-                    currentScene = new BeginOrEndScene();
+                    currentScene = new EndScene();
                     break;
                 default:
                     break;

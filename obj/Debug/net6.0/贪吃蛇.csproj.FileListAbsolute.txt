@@ -13,3 +13,18 @@ D:\Visual Studio\Csharp-Game\贪吃蛇\贪吃蛇\obj\Debug\net6.0\refint\贪吃�
 D:\Visual Studio\Csharp-Game\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.pdb
 D:\Visual Studio\Csharp-Game\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.genruntimeconfig.cache
 D:\Visual Studio\Csharp-Game\贪吃蛇\贪吃蛇\obj\Debug\net6.0\ref\贪吃蛇.dll
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.csproj.AssemblyReference.cache
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.AssemblyInfoInputs.cache
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.AssemblyInfo.cs
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.dll
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\refint\贪吃蛇.dll
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.pdb
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\bin\Debug\net6.0\贪吃蛇.exe
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\bin\Debug\net6.0\贪吃蛇.deps.json
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\bin\Debug\net6.0\贪吃蛇.runtimeconfig.json
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\bin\Debug\net6.0\贪吃蛇.dll
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\bin\Debug\net6.0\贪吃蛇.pdb
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\贪吃蛇.genruntimeconfig.cache
+D:\C-sharp\贪吃蛇小游戏\贪吃蛇\贪吃蛇\obj\Debug\net6.0\ref\贪吃蛇.dll
