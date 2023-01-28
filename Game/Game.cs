@@ -18,8 +18,8 @@ namespace 贪吃蛇.Game
     }
     class Game
     {
-        public const int w = 40;
-        public const int h = 20;
+        public const int w = 80;
+        public const int h = 40;
         //当前选中的场景
         public static ISceneUpdate currentScene;
         //构造函数
@@ -30,7 +30,7 @@ namespace 贪吃蛇.Game
             Console.SetBufferSize(w, h);
 
             //初始化场景
-            changeScene(E_SceneType.End);
+            changeScene(E_SceneType.Begin);
 
         }
 
