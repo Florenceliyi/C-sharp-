@@ -25,7 +25,7 @@ namespace 贪吃蛇.Object
         {
             Console.SetCursorPosition(pos.x, pos.y);
             Console.ForegroundColor = type == E_SnakeBody_Type.Body ? ConsoleColor.Yellow : ConsoleColor.Green;
-            Console.Write(type == E_SnakeBody_Type.Head ? "⊛" : "◉");
+            Console.Write(type == E_SnakeBody_Type.Head ? "★" : "■");
 
         }
 

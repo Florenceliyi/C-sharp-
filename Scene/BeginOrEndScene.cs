@@ -51,7 +51,6 @@ namespace 贪吃蛇.Scene
                     EnterJDoSomething();
                     break;
             }
-            Console.WriteLine(currentIndex);
         }
     }
 }

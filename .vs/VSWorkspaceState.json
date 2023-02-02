@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Draw",
     "\\Game",
-    "\\Scene"
+    "\\Map",
+    "\\Object",
+    "\\Scene",
+    "\\SnakeObject"
   ],
-  "SelectedNode": "\\Scene",
   "PreviewInSolutionExplorer": false
 }
